@@ -4,8 +4,6 @@
 
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeisson-alexander/)](https://www.linkedin.com/in/jeisson-alexander/) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/amarokdev/)](https://www.instagram.com/amarokdev/) <!-- ![](https://komarev.com/ghpvc/?username=Alexander206) -->
 
-<img src="./profile.png" min-width="200px" max-width="250px" width="250px" align="right" alt="Logo png">
-
 <p align="left"> 
 Soy un desarrollador de software amante de la tecnología y el desarrollo web. 👨‍💻 A lo largo de mi trayectoria, he tenido la oportunidad de participar en proyectos de programación y diseño web, colaborando con instituciones reconocidas como la Universidad Pedagógica Nacional y la Escuela Tecnológica Instituto Técnico Central.
 
@@ -22,7 +20,7 @@ Como Licenciado en Diseño Tecnológico, me he formado para potenciar mi capacid
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Alexander206&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" /></td>
-        <td><img width="480px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alexander206&show_icons=true&count_private=true" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alexander206&show_icons=true&count_private=true" /></td>
     </tr>   
   </table>
 </center>
