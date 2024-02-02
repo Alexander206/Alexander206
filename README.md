@@ -2,7 +2,7 @@
 
 ## 🦊 Sobre mi
 
-# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeisson-alexander/)](https://www.linkedin.com/in/jeisson-alexander/) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/amarokdev/)](https://www.instagram.com/amarokdev/) <!-- ![](https://komarev.com/ghpvc/?username=Alexander206) -->
+# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeisson-alexander/)](https://www.linkedin.com/in/jeisson-alexander/) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/amarokdev/)](https://www.instagram.com/amarokdev/) ![](https://komarev.com/ghpvc/?username=Alexander206)
 
 <p align="left"> 
 Soy un desarrollador de software amante de la tecnología y el desarrollo web. 👨‍💻 A lo largo de mi trayectoria, he tenido la oportunidad de participar en proyectos de programación y diseño web, colaborando con instituciones reconocidas como la Universidad Pedagógica Nacional y la Escuela Tecnológica Instituto Técnico Central.
