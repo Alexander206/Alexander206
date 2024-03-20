@@ -19,8 +19,8 @@ Como Licenciado en Diseño Tecnológico, me he formado para potenciar mi capacid
 <center>
   <table>
     <tr>
-        <td><img width="330px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Alexander206&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" /></td>
-        <td><img width="430px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alexander206&show_icons=true&count_private=true" /></td>
+        <td><img width="330px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AllexanderGM&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" /></td>
+        <td><img width="430px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AllexanderGM&show_icons=true&count_private=true" /></td>
     </tr>   
   </table>
 </center>
